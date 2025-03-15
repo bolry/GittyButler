@@ -2,6 +2,7 @@
 
 #ifndef GITTY_EXEMPLAR_IDENTITY_HPP
 #define GITTY_EXEMPLAR_IDENTITY_HPP
+#pragma once
 
 // C++ Standard Library: std::identity equivalent.
 // See https://eel.is/c++draft/func.identity:
